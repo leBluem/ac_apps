@@ -16,7 +16,7 @@ For descriptions and images see under:
  - https://www.overtake.gg/downloads/tyres_app_ext.47842/
 
 ## Lua apps, unpack to AC folder
-
+ - https://www.overtake.gg/downloads/jumpailine-lua-app-csp-only.68828/
 
 ## Other stuff:
  - https://www.overtake.gg/downloads/ac-cars-tracks-tecspecs-excelscanner.19597/
