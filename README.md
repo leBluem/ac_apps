@@ -1,5 +1,7 @@
+(Note: there are no releases, just download the individual files above)
+
 # ac_apps
-small apps for Assetto Corsa, mostly python, some in lua, either published already on RaceDepartment or on CSP discord
+Small apps for Assetto Corsa, mostly python, some in lua, either published already on RaceDepartment or on CSP discord
  - CustomShadersPatch discord: https://discord.gg/nM4Xkrt
  - Sol discord: https://discord.gg/wBqYuBd 
 
