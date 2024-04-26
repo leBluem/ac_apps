@@ -1,5 +1,5 @@
-(note1: click the file, then click raw, it will download the archive)
-(note2: there are no releases, just download the individual files above)
+- note1: click the file, then click raw, it will download the archive
+- note2: there are no releases, just download the individual files above
 
 # ac_apps
 Small apps for Assetto Corsa, mostly python, some in lua, either published already on RaceDepartment or on CSP discord
@@ -28,3 +28,5 @@ For descriptions and images see under:
 ## Blender addon to import/export AI/CSV/INI files has its own Repo:
  - https://github.com/leBluem/io_import_accsv
 
+## If you feel like donating something
+ - https://www.patreon.com/leBluem
