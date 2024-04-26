@@ -4,6 +4,7 @@ small apps for Assetto Corsa, mostly python, some in lua, either published alrea
  - Sol discord: https://discord.gg/wBqYuBd 
 
 ## Python apps, unpack to AC folder, enable under Settings/AC/python apps
+For descriptions and images see under:
  - https://www.overtake.gg/downloads/audiolevelpercar.48787/
  - https://www.overtake.gg/downloads/caminfo.46609/
  - https://www.overtake.gg/downloads/carspecs.47760/
