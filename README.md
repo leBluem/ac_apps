@@ -4,23 +4,23 @@ small apps for Assetto Corsa, mostly python, some in lua, either published alrea
  - Sol discord: https://discord.gg/wBqYuBd 
 
 ## Python apps, unpack to AC folder, enable under Settings/AC/python apps
-https://www.overtake.gg/downloads/audiolevelpercar.48787/
-https://www.overtake.gg/downloads/caminfo.46609/
-https://www.overtake.gg/downloads/carspecs.47760/
-https://www.overtake.gg/downloads/custom-shaders-patch-debug-app-advanced.29060/
-https://www.overtake.gg/downloads/g-force-and-tyre-data-app.49485/
-https://www.overtake.gg/downloads/lebluems-yet-another-telemetry-tool-leb_yatt.57941/
-https://www.overtake.gg/downloads/timedetail.58684/
-https://www.overtake.gg/downloads/trackheight.47641/
-https://www.overtake.gg/downloads/tyres_app_ext.47842/
+ - https://www.overtake.gg/downloads/audiolevelpercar.48787/
+ - https://www.overtake.gg/downloads/caminfo.46609/
+ - https://www.overtake.gg/downloads/carspecs.47760/
+ - https://www.overtake.gg/downloads/custom-shaders-patch-debug-app-advanced.29060/
+ - https://www.overtake.gg/downloads/g-force-and-tyre-data-app.49485/
+ - https://www.overtake.gg/downloads/lebluems-yet-another-telemetry-tool-leb_yatt.57941/
+ - https://www.overtake.gg/downloads/timedetail.58684/
+ - https://www.overtake.gg/downloads/trackheight.47641/
+ - https://www.overtake.gg/downloads/tyres_app_ext.47842/
 
 ## Lua apps, unpack to AC folder
 
 
-Other stuff:
-https://www.overtake.gg/downloads/ac-cars-tracks-tecspecs-excelscanner.19597/
-https://www.overtake.gg/downloads/excel-ini-scanner.24186/
+## Other stuff:
+ - https://www.overtake.gg/downloads/ac-cars-tracks-tecspecs-excelscanner.19597/
+ - https://www.overtake.gg/downloads/excel-ini-scanner.24186/
 
-Blender addon to import/export AI/CSV/INI files has its own Repo:
-https://github.com/leBluem/io_import_accsv
+## Blender addon to import/export AI/CSV/INI files has its own Repo:
+ - https://github.com/leBluem/io_import_accsv
 
