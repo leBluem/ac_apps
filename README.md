@@ -14,6 +14,7 @@ For descriptions and images see under:
  - https://www.overtake.gg/downloads/custom-shaders-patch-debug-app-advanced.29060/
  - https://www.overtake.gg/downloads/g-force-and-tyre-data-app.49485/
  - https://www.overtake.gg/downloads/lebluems-yet-another-telemetry-tool-leb_yatt.57941/
+ - https://www.overtake.gg/downloads/multilaps.4997/
  - https://www.overtake.gg/downloads/timedetail.58684/
  - https://www.overtake.gg/downloads/trackheight.47641/
  - https://www.overtake.gg/downloads/tyres_app_ext.47842/
