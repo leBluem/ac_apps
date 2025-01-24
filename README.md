@@ -6,6 +6,10 @@ Small apps for Assetto Corsa, mostly python, some in lua, either published alrea
  - CustomShadersPatch discord: https://discord.gg/nM4Xkrt
  - Sol discord: https://discord.gg/wBqYuBd 
 
+## Lua apps, unpack to AC folder
+ - (NEW) https://www.overtake.gg/downloads/customlicensetest.74614/
+ - https://www.overtake.gg/downloads/jumpailine-lua-app-csp-only.68828/
+
 ## Python apps, unpack to AC folder, enable under Settings/AC/python apps
 For descriptions and images see under:
  - https://www.overtake.gg/downloads/audiolevelpercar.48787/
@@ -18,9 +22,6 @@ For descriptions and images see under:
  - https://www.overtake.gg/downloads/timedetail.58684/
  - https://www.overtake.gg/downloads/trackheight.47641/
  - https://www.overtake.gg/downloads/tyres_app_ext.47842/
-
-## Lua apps, unpack to AC folder
- - https://www.overtake.gg/downloads/jumpailine-lua-app-csp-only.68828/
 
 ## Other stuff:
  - https://www.overtake.gg/downloads/ac-cars-tracks-tecspecs-excelscanner.19597/
