@@ -7,7 +7,7 @@ Small apps for Assetto Corsa, mostly python, some in lua, either published alrea
  - Sol discord: https://discord.gg/wBqYuBd 
 
 ## Lua apps, unpack to AC folder
- - (NEW) https://www.overtake.gg/downloads/customlicensetest.74614/
+ - (NEW jan 2025) https://www.overtake.gg/downloads/customlicensetest.74614/
  - https://www.overtake.gg/downloads/jumpailine-lua-app-csp-only.68828/
 
 ## Python apps, unpack to AC folder, enable under Settings/AC/python apps
