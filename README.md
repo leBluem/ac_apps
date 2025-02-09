@@ -3,6 +3,7 @@
 
 # ac_apps
 Small apps for Assetto Corsa, mostly python, some in lua, either published already on RaceDepartment or on CSP discord
+ - my mods on RaceDepartment/OverTake: https://www.overtake.gg/downloads/authors/please-stop-this.171489/
  - CustomShadersPatch discord: https://discord.gg/nM4Xkrt
  - Sol discord: https://discord.gg/wBqYuBd 
 
