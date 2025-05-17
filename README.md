@@ -1,5 +1,6 @@
 - note1: click the file, then click raw, it will download the archive
 - note2: there are no releases, just download the individual files above
+- note3: "apps_lua" in name: Lua app, if not its a python app
 
 # ac_apps
 Small apps for Assetto Corsa, mostly python, some in lua, either published already on RaceDepartment or on CSP discord
